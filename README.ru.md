@@ -120,6 +120,7 @@
 
 - 📬 Telegram: [@RimMirK](https://t.me/RimMirK)  
   спамблок? — [@RimMirK_bot](https://t.me/RimMirK_bot)  
+- 📑 Bio + Блог: [@RimBiO](https://t.me/RimBiO)
 - 🌍 Сайт: [rimmirk.pp.ua](https://rimmirk.pp.ua)  
 - 📂 GitHub: [github.com/RimMirK](https://github.com/RimMirK) <- вы тут
 - 📨 Email: `me@rimmirk.pp.ua`
