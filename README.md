@@ -102,7 +102,7 @@ If you want a clean & reliable backend, a fast & powerful bot, or a reliable too
 ## ❗ I do not work on anything illegal or unethical:  
 No scam, no spam, no casinos, no “gray” bots.
 
-> To order, write to me in TG. Contacts below
+### To order, write to me in TG. Contacts below
 
 ---
 
@@ -113,8 +113,9 @@ Feel free to reach out.
 
 - 📬 Telegram: [@RimMirK](https://t.me/RimMirK)
      Spamblocked? Use [@RimMirK_bot](https://t.me/RimMirK_bot)  
-- 🌍 Website: [rimtub.pp.ua](https://rimtub.pp.ua)  
+- 🌍 Website: [rimmirk.pp.ua](https://rimmirk.pp.ua)  
 - 📂 GitHub: [github.com/RimMirK](https://github.com/RimMirK)
+- Email: `me@rimmirk.pp.ua`
 
 ---
 
