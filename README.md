@@ -15,6 +15,8 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
 
 ### 🔧 About RimTUB 
 
+> ** It's my _Opus magnum_ — my main creation, my foundation, my soul. **
+
 [**RimTUB**](https://github.com/RimMirK/RimTUB) is a **powerful open-source userbot platform** for Telegram.  
 It’s designed to be fully customizable — for both beginners and advanced users.
 
