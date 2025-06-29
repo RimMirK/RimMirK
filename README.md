@@ -1,6 +1,6 @@
 # 👋 Hey, I'm RimMirK
 
-> I see code as a quiet form of power. Not flashy — but lasting.
+> Code is not just work — it’s my life. Code is more than symbols — it’s the expression of my soul and heart. < © RimMirK
 
 I'm a Python developer focused on **Telegram bots and userbots**, and the creator of [**RimTUB**](https://github.com/RimMirK/RimTUB) — a flexible, modular platform that lets users control their Telegram experience with precision and freedom.
 
@@ -9,7 +9,7 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
 
 ---
 
-## 🔧 About RimTUB 
+### 🔧 About RimTUB 
 
 [**RimTUB**](https://github.com/RimMirK/RimTUB) is a **powerful open-source userbot platform** for Telegram.  
 It’s designed to be fully customizable — for both beginners and advanced users.
@@ -37,10 +37,18 @@ Whether you want to automate your stuff, manage everything, or create entire sys
 I’m not chasing trends. I don’t care about hype stacks.  
 What I care about is **clarity** — in code, in structure, in what a tool does and how it behaves.
 
-> Code, to me, is quiet design. It's not just about making something work — it's about making something make sense.
+> Code, to me, is not just a sequence of characters.  
+> It is something far more important — my temple, my life.
 
-I prefer simple over clever, consistent over fancy, and open over closed.  
-I believe good tools should respect the user — not dictate to them.
+- I value reliability and practicality over hype and fleeting trends.  
+
+- I believe good projects are those that adapt to you, not the other way around.
+
+- Programming is not just writing code.  
+  It’s your intuition, your logic, your soul expressed through lines.
+
+> Great code doesn’t shout — it listens, supports, and lasts.  
+> It’s the quiet bridge between idea and reality.
 
 ---
 
@@ -52,16 +60,17 @@ I believe good tools should respect the user — not dictate to them.
 - 🌐 Backend APIs (FastAPI)  
 - 🧩 And other usual stuff (JSON, asyncio, SQL, etc.)
 
-I write code that lasts.  
-I test things myself.  
-I automate what annoys me.
+I write code that works.  
+I code from the heart, not for money.  
+I automate everything I can.  
+I see no impossible in the possible.
 
 ---
 
 ## 💼 Freelance & Work
 
-I also work as a freelancer — building bots, userbots and other things for Telegram.
-If you want a clean backend, a fast bot, or a reliable tool — I am right here.
+I also work as a freelancer — building bots, userbots and other things for Telegram, and not only that.
+If you want a clean & reliable backend, a fast & powerful bot, or a reliable tool — I am right here.
 
 - I don’t promise magic.  
 - I **do** promise code that **works**, **makes sense**, and **doesn’t break** in **two weeks**.
@@ -69,7 +78,7 @@ If you want a clean backend, a fast bot, or a reliable tool — I am right here.
 
 ### 🤖 Telegram Bot Development
 
-I also create **Telegram bots on request** — for personal, community, or business use.
+**Telegram bots on request** — for personal, community, or business use.
 
 #### ✅ What I can do:
 - Bots of simple to medium complexity — no crypto-trading, but I can try making store bots, utilities, etc.  
