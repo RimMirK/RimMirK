@@ -4,6 +4,8 @@
 
 ### Перевод на русский тут -> [тык](README.ru.md)
 
+---
+
 I'm a Python developer focused on **Telegram bots and userbots**.
 
 The creator of [**RimTUB**](https://github.com/RimMirK/RimTUB) — a flexible, modular Telegram userbot that lets users control their Telegram experience with precision and freedom.
