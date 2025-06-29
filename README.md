@@ -115,7 +115,7 @@ Feel free to reach out.
      Spamblocked? Use [@RimMirK_bot](https://t.me/RimMirK_bot)  
 - 🌍 Website: [rimmirk.pp.ua](https://rimmirk.pp.ua)  
 - 📂 GitHub: [github.com/RimMirK](https://github.com/RimMirK)
-- Email: `me@rimmirk.pp.ua`
+- 📨 Email: `me@rimmirk.pp.ua`
 
 ---
 
