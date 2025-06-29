@@ -13,6 +13,18 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
 
 ---
 
+## Contents
+
+- [🔧 About RimTUB](#-about-rimtub)  
+- [💭 Philosophy](#-philosophy)  
+- [🧠 My Stack & Focus](#-my-stack--focus)  
+- [💼 Freelance & Work](#-freelance--work)  
+  - [🤖 Telegram Bot Development](#-telegram-bot-development)  
+  - [❗ Ethical Standards](#-i-do-not-work-on-anything-illegal-or-unethical)  
+- [📬 Contact](#-contact)
+
+---
+
 ### 🔧 About RimTUB 
 
 > **It's my _Opus magnum_ — my main creation, my foundation, my soul.**
