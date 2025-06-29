@@ -2,7 +2,8 @@
 
 > Code is not just work — it’s my life. Code is more than symbols — it’s the expression of my soul and heart. < © RimMirK
 
-I'm a Python developer focused on **Telegram bots and userbots**, and the creator of [**RimTUB**](https://github.com/RimMirK/RimTUB) — a flexible, modular platform that lets users control their Telegram experience with precision and freedom.
+I'm a Python developer focused on **Telegram bots and userbots**.
+The creator of [**RimTUB**](https://github.com/RimMirK/RimTUB) — a flexible, modular platform that lets users control their Telegram experience with precision and freedom.
 
 I build tools that are **useful**, **clean**, and **open**.  
 No unnecessary complexity, no heavy stacks. Just logic, architecture, and code that solves real problems.
