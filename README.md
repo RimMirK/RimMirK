@@ -15,7 +15,7 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
 
 ---
 
-## Contents
+## 🧾 Contents
 
 - [🔧 About RimTUB](#-about-rimtub)  
 - [💭 Philosophy](#-philosophy)  
