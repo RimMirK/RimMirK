@@ -111,7 +111,7 @@ No scam, no spam, no casinos, no “gray” bots.
 I'm always open to collaboration, feedback, or freelance work.  
 Feel free to reach out.
 
-- 📬 Telegram: [@RimMirK](https://t.me/RimMirK)
+- 📬 Telegram: [@RimMirK](https://t.me/RimMirK)\
      Spamblocked? Use [@RimMirK_bot](https://t.me/RimMirK_bot)  
 - 🌍 Website: [rimmirk.pp.ua](https://rimmirk.pp.ua)  
 - 📂 GitHub: [github.com/RimMirK](https://github.com/RimMirK)
