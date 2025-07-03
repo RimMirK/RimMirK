@@ -8,7 +8,7 @@
 
 I'm a Python developer focused on **Telegram bots and userbots**.
 
-The creator of [**RimTUB**](https://github.com/RimMirK/RimTUB) — a flexible, modular Telegram userbot that lets users control their Telegram experience with precision and freedom.
+The creator of [**RimTUB**](https://github.com/RimTUB/RimTUB) — a flexible, modular Telegram userbot that lets users control their Telegram experience with precision and freedom.
 
 I build tools that are **useful**, **clean**, and **open**.  
 No unnecessary complexity, no heavy stacks. Just logic, architecture, and code that solves real problems.
