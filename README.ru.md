@@ -5,6 +5,9 @@
 ### English translation here -> [click](README.md)
 
 ---
+![\#StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine/blob/main/banner-personal-page.svg)
+---
+
 
 Я Python-разработчик, специализируюсь на **Telegram-ботах и юзерботах**.
 
