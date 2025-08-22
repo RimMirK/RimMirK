@@ -3,6 +3,9 @@
 > Code is not just work — it’s my life. Code is more than symbols — it’s the expression of my soul and heart. © RimMirK
 
 ### Перевод на русский тут -> [тык](README.ru.md)
+---
+
+![\#StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine/blob/main/banner-personal-page.svg)
 
 ---
 
