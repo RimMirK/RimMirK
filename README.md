@@ -92,6 +92,8 @@ Python client for [paste.rs](https://paste.rs) — another lightweight service f
 ---
 
 ### 🧩 RimMirK's Telegram Bot Template
+> This is exactly the basis on which I write my bots.
+
 A clean and simple **starter template** for building Telegram bots with async TeleBot.  
 Includes intermediate structure with splitting code for files, middlewares, translations(multi-langage bot), error handling and more — perfect for fast prototyping.  
 
