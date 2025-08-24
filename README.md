@@ -26,7 +26,7 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
   - [📄 pastes](#-pastes)
   - [📑 pasters](#-pasters)
   - [🧩 RimMirK's Telegram Bot Template](#-rimmirks-telegram-bot-template)
-  - [🔐 ItsCaptchaBot](-ItsCaptchaBot)
+  - [🔐 ItsCaptchaBot](-itscaptchabot)
 - [💭 Philosophy](#-philosophy)  
 - [🧠 My Stack & Focus](#-my-stack--focus)  
 - [💼 Freelance & Work](#-freelance--work)  
@@ -57,7 +57,7 @@ It’s designed to be fully customizable — for both beginners and advanced use
 Whether you want to automate your stuff, manage everything, or create entire systems inside Telegram — RimTUB gives you the framework.
 
 **Links:**
-- 📦 GitHub: [github.com/RimTUB/RimTUB](https://github.com/RimTUB/RimTUB)  
+- 📦 GitHub: [RimTUB/RimTUB](https://github.com/RimTUB/RimTUB)  
 - 🌍 Website: [rimtub.pp.ua](https://rimtub.pp.ua)  
 - 📚 Docs: [docs.rimtub.pp.ua](https://docs.rimtub.pp.ua)  
 - 💬 Telegram: [@RimTUB](https://t.me/RimTUB)
@@ -70,7 +70,7 @@ Whether you want to automate your stuff, manage everything, or create entire sys
 Asynchronous Python client for [xRocket Pay API](https://xrocket.pay/).  
 Focused on simplicity and speed.  
 
-- 📦 GitHub: [github.com/RimMirK/aiorocket2](https://github.com/RimMirK/aiorocket2)  
+- 📦 GitHub: [RimMirK/aiorocket2](https://github.com/RimMirK/aiorocket2)  
 - 🌍 PyPI: [pypi.org/project/aiorocket2](https://pypi.org/project/aiorocket2)  
 - 📚 Docs: [aiorocket2.rimmirk.pp.ua](https://aiorocket2.rimmirk.pp.ua) _(coming soon)_
 
@@ -79,7 +79,7 @@ Focused on simplicity and speed.
 ### 📄 pastes
 Minimal Python client for [pastes.dev](https://pastes.dev) — a fast and clean code sharing service.  
 
-- 📦 GitHub: [github.com/RimMirK/pastes](https://github.com/RimMirK/pastes)  
+- 📦 GitHub: [RimMirK/pastes](https://github.com/RimMirK/pastes)  
 - 🌍 PyPI: [pypi.org/project/pastes](https://pypi.org/project/pastes)
 
 ---
