@@ -25,6 +25,8 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
   - [🚀 aiorocket2](#-aiorocket2)
   - [📄 pastes](#-pastes)
   - [📑 pasters](#-pasters)
+  - [🧩 RimMirK's Telegram Bot Template](#-rimmirks-telegram-bot-template)
+  - [🔐 ItsCaptchaBot](-itscaptchabot)
 - [💭 Philosophy](#-philosophy)  
 - [🧠 My Stack & Focus](#-my-stack--focus)  
 - [💼 Freelance & Work](#-freelance--work)  
@@ -89,9 +91,9 @@ Python client for [paste.rs](https://paste.rs) — another lightweight service f
 - 🌍 PyPI: [pypi.org/project/pasters](https://pypi.org/project/pasters)
 ---
 
-### 🧩 Bot Template
+### 🧩 RimMirK's Telegram Bot Template
 A clean and simple **starter template** for building Telegram bots with async TeleBot.  
-Includes base structure, config, and logging — perfect for fast prototyping.  
+Includes intermediate structure with splitting code for files, middlewares, translations(multi-langage bot), error handling and more — perfect for fast prototyping.  
 
 - 📦 GitHub: [RimMirK/RimMirKs_BotTemplate](https://github.com/RimMirK/RimMirKs_BotTemplate)
 
