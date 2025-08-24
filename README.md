@@ -26,7 +26,7 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
   - [📄 pastes](#-pastes)
   - [📑 pasters](#-pasters)
   - [🧩 RimMirK's Telegram Bot Template](#-rimmirks-telegram-bot-template)
-  - [🔐 ItsCaptchaBot](-itscaptchabot)
+  - [🔐 ItsCaptchaBot](#-itscaptchabot)
 - [💭 Philosophy](#-philosophy)  
 - [🧠 My Stack & Focus](#-my-stack--focus)  
 - [💼 Freelance & Work](#-freelance--work)  
