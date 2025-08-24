@@ -21,6 +21,12 @@ No unnecessary complexity, no heavy stacks. Just logic, architecture, and code t
 ## 🧾 Contents
 
 - [🔧 About RimTUB](#-about-rimtub)  
+- [🗂️ Other Projects](#-other-projects)
+  - [🚀 aiorocket2](#-aiorocket2)
+  - [📄 pastes](#-pastes)
+  - [📑 pasters](#-pasters)
+  - [🧩 RimMirK's Telegram Bot Template](#-rimmirks-telegram-bot-template)
+  - [🔐 ItsCaptchaBot](#-itscaptchabot)
 - [💭 Philosophy](#-philosophy)  
 - [🧠 My Stack & Focus](#-my-stack--focus)  
 - [💼 Freelance & Work](#-freelance--work)  
@@ -51,10 +57,56 @@ It’s designed to be fully customizable — for both beginners and advanced use
 Whether you want to automate your stuff, manage everything, or create entire systems inside Telegram — RimTUB gives you the framework.
 
 **Links:**
-- 📦 GitHub: [github.com/RimTUB/RimTUB](https://github.com/RimTUB/RimTUB)  
+- 📦 GitHub: [RimTUB/RimTUB](https://github.com/RimTUB/RimTUB)  
 - 🌍 Website: [rimtub.pp.ua](https://rimtub.pp.ua)  
 - 📚 Docs: [docs.rimtub.pp.ua](https://docs.rimtub.pp.ua)  
 - 💬 Telegram: [@RimTUB](https://t.me/RimTUB)
+
+---
+
+## 🗂️ Other Projects
+
+### 🚀 aiorocket2
+Asynchronous Python client for [xRocket Pay API](https://xrocket.pay/).  
+Focused on simplicity and speed.  
+
+- 📦 GitHub: [RimMirK/aiorocket2](https://github.com/RimMirK/aiorocket2)  
+- 🌍 PyPI: [pypi.org/project/aiorocket2](https://pypi.org/project/aiorocket2)  
+- 📚 Docs: [aiorocket2.rimmirk.pp.ua](https://aiorocket2.rimmirk.pp.ua) _(coming soon)_
+
+---
+
+### 📄 pastes
+Minimal Python client for [pastes.dev](https://pastes.dev) — a fast and clean code sharing service.  
+
+- 📦 GitHub: [RimMirK/pastes](https://github.com/RimMirK/pastes)  
+- 🌍 PyPI: [pypi.org/project/pastes](https://pypi.org/project/pastes)
+
+---
+
+### 📑 pasters
+Python client for [paste.rs](https://paste.rs) — another lightweight service for sharing code snippets.  
+
+- 📦 GitHub: [RimMirK/pasters](https://github.com/RimMirK/pasters)  
+- 🌍 PyPI: [pypi.org/project/pasters](https://pypi.org/project/pasters)
+---
+
+### 🧩 RimMirK's Telegram Bot Template
+> This is exactly the basis on which I write my bots.
+
+A clean and simple **starter template** for building Telegram bots with async TeleBot.  
+Includes intermediate structure with splitting code for files, middlewares, translations(multi-langage bot), error handling and more — perfect for fast prototyping.  
+
+- 📦 GitHub: [RimMirK/RimMirKs_BotTemplate](https://github.com/RimMirK/RimMirKs_BotTemplate)
+
+---
+
+### 🔐 ItsCaptchaBot
+A **multi-language CAPTCHA bot** for Telegram groups.  
+Helps protect communities from spam with customizable captcha challenges.  
+
+- 📦 GitHub: [RimMirK/ItsCaptchaBot](https://github.com/RimMirK/ItsCaptchaBot)  
+- 🤖 Bot: [@its_captcha_bot](https://t.me/its_captcha_bot)
 
 ---
 
