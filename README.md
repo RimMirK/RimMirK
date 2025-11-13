@@ -58,8 +58,8 @@ Whether you want to automate your stuff, manage everything, or create entire sys
 
 **Links:**
 - 📦 GitHub: [RimTUB/RimTUB](https://github.com/RimTUB/RimTUB)  
-- 🌍 Website: [rimtub.pp.ua](https://rimtub.pp.ua)  
-- 📚 Docs: [docs.rimtub.pp.ua](https://docs.rimtub.pp.ua)  
+- 🌍 Website: [RimTUB.app](https://RimTUB.app)  
+- 📚 Docs: [docs.RimTUB.app](https://docs.RimTUB.app)  
 - 💬 Telegram: [@RimTUB](https://t.me/RimTUB)
 
 ---
@@ -72,7 +72,6 @@ Focused on simplicity and speed.
 
 - 📦 GitHub: [RimMirK/aiorocket2](https://github.com/RimMirK/aiorocket2)  
 - 🌍 PyPI: [pypi.org/project/aiorocket2](https://pypi.org/project/aiorocket2)  
-- 📚 Docs: [aiorocket2.rimmirk.pp.ua](https://aiorocket2.rimmirk.pp.ua) _(coming soon)_
 
 ---
 
@@ -192,9 +191,9 @@ Feel free to reach out.
 - 📬 Telegram: [@RimMirK](https://t.me/RimMirK)\
      Spamblocked? Use [@RimMirK_bot](https://t.me/RimMirK_bot)  
 - Bio + Blog: [@RimBiO](https://t.me/RimBiO)
-- 🌍 Website: [rimmirk.pp.ua](https://rimmirk.pp.ua)  
+- 🌍 Website: [RimMirK.dev](https://RimMirK.dev)  
 - 📂 GitHub: [github.com/RimMirK](https://github.com/RimMirK) <- _you are here_
-- 📨 Email: `me@rimmirk.pp.ua`
+- 📨 Email: `me@RimMirK.dev`
 
 ---
 
